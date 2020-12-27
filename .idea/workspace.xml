@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64879708-df4b-4559-8227-1a899f3da5ca" name="Default Changelist" comment="" />
+    <list default="true" id="64879708-df4b-4559-8227-1a899f3da5ca" name="Default Changelist" comment="first module">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project01/project01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project01/src/com/example/palindrom/PalindromFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project01/src/com/example/palindrom/TextFixer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -17,12 +31,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lYiGWpIVczsnglz5C08zccdtzG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,6 +58,28 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="PalindromFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.palindrom.PalindromFinder" />
+      <module name="project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.palindrom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PalindromFinder" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -47,6 +91,18 @@
       <option name="presentableId" value="Default" />
       <updated>1607780330009</updated>
       <workItem from="1607780331437" duration="295000" />
+      <workItem from="1607780653524" duration="1049000" />
+      <workItem from="1607781738249" duration="1794000" />
+      <workItem from="1607783568558" duration="1098000" />
+      <workItem from="1607784762070" duration="193000" />
+      <workItem from="1607785228167" duration="899000" />
+      <workItem from="1607786236979" duration="1795000" />
+      <workItem from="1607788068635" duration="1474000" />
+      <workItem from="1607847509709" duration="1765000" />
+      <workItem from="1607849582693" duration="1206000" />
+      <workItem from="1609089451314" duration="1704000" />
+      <workItem from="1609091307618" duration="1722000" />
+      <workItem from="1609093206663" duration="1666000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1607780506337</created>
@@ -55,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607780506338</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first module">
+      <created>1607780699424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607780699424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,7 +129,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -74,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="first module" />
+    <option name="LAST_COMMIT_MESSAGE" value="first module" />
   </component>
 </project>
